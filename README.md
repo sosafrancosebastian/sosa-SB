@@ -5,3 +5,14 @@
 
 ___
 
+## Listado de productos.
+
+- Insumos para velas.
+    - (Cera de soja, pabilos, chapitas, esencias, envases etc.)
+- Insumos para difusores aromaticos.
+    - (Esencias, alcohol, envases, varillas, etc.)
+- Insumos para jabones.
+    - (Pan base de coco, de glicerina, colorante, esencia.)
+- Insumos para perfumeria personal.
+    - (Esencia, alcohol, agua destilada, propilenglicol, etc.)
+- Entre otros...
