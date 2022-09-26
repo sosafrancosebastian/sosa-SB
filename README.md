@@ -5,7 +5,7 @@
 
 ___
 
-### Listado de productos.
+## Listado de productos.
 
 - **Insumos para velas.**
     - (Cera de soja, pabilos, chapitas, esencias, envases etc.)
@@ -26,7 +26,7 @@ Este e-commerce abarca un público general, **de cualquier género y entre la ed
 
 ___
 
-#### Tipografía principal.
+### Tipografía principal.
 
 Opciones:
 - [Oswald.](https://fonts.google.com/specimen/Oswald?query=oswald)
@@ -35,3 +35,8 @@ Opciones:
 
 ___
 
+### Paletas de colores
+
+![Paleta1](https://i.pinimg.com/originals/19/b6/98/19b698f4156de674e8972f48f9959108.jpg)
+![Paleta2](https://s3.amazonaws.com/colorcombos-images/users/1/color-schemes/color-scheme-386-main.png?v=20150618204521)
+![Paleta3](https://paletadecolores.online/static/4a1820e55f7cfb6f2fb9e6009ce94401/299b8/color_azul_marino_y_naranja.png)
