@@ -38,10 +38,10 @@ ___
 ### Paleta de colores
 
 Colores a utilizar:
-`#6BBAA7`
-`#FBA100`
-`#6C648B`
-`#B6A19E`
+- Aqua: `#6BBAA7`
+- Sunshine: `#FBA100`
+- Lavender: `#6C648B`
+- Dusty Rose: `#B6A19E`
 
 ___
 
