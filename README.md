@@ -16,5 +16,13 @@ ___
 - **Insumos para perfumeria personal.**
     - (Esencias, alcohol, agua destilada, propilenglicol, etc.)
 - **Entre otros...**
-[Aqui las imagenes de algunos productos](https://www.instagram.com/sb.argentina/)
+[Imágenes de algunos productos](https://www.instagram.com/sb.argentina/)
+
+___
+
+## Público objetivo.
+
+Este e-commerce abarca un público general, **de cualquier género y entre la edad de 15 y hasta 70 años**, ya que se manipulan productos químicos. **Destinado a empresas o personas** que deseen incursionar o empezar su emprendimiento.
+
+___
 
