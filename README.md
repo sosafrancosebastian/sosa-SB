@@ -39,9 +39,9 @@ ___
 
 Colores a utilizar:
 `#6BBAA7`
-`FBA100`
-`6C648B`
-`B6A19E`
+`#FBA100`
+`#6C648B`
+`#B6A19E`
 
 ___
 
