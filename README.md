@@ -5,7 +5,7 @@
 
 ___
 
-## Listado de productos.
+### Listado de productos.
 
 - **Insumos para velas.**
     - (Cera de soja, pabilos, chapitas, esencias, envases etc.)
@@ -20,9 +20,18 @@ ___
 
 ___
 
-## Público objetivo.
+### Público objetivo.
 
 Este e-commerce abarca un público general, **de cualquier género y entre la edad de 15 y hasta 70 años**, ya que se manipulan productos químicos. **Destinado a empresas o personas** que deseen incursionar o empezar su emprendimiento.
+
+___
+
+#### Tipografía principal.
+
+Opciones:
+- [Oswald.](https://fonts.google.com/specimen/Oswald?query=oswald)
+- [Roboto Slab.](https://fonts.google.com/specimen/Roboto+Slab?query=roboto)
+- [Signika.](https://fonts.google.com/specimen/Signika?query=sig)
 
 ___
 
