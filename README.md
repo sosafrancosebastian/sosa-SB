@@ -39,4 +39,8 @@ ___
 
 ![Paleta1](https://i.pinimg.com/originals/19/b6/98/19b698f4156de674e8972f48f9959108.jpg)
 ![Paleta2](https://s3.amazonaws.com/colorcombos-images/users/1/color-schemes/color-scheme-386-main.png?v=20150618204521)
-![Paleta3](https://paletadecolores.online/static/4a1820e55f7cfb6f2fb9e6009ce94401/299b8/color_azul_marino_y_naranja.png)
+![Paleta3](https://i0.wp.com/www.larepublicasimple.com/wp-content/uploads/2021/04/80FFFC07-3FE3-46EA-928D-010D7A6BE16C.jpeg?resize=750%2C400)
+![Paleta4](https://etiquetalia.es/wp-content/uploads/2021/08/paleta-de-colores-azul.jpg)
+
+___
+
