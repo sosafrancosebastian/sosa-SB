@@ -38,10 +38,11 @@ ___
 ### Paleta de colores
 
 Colores a utilizar:
-- Aqua: `#6BBAA7`
-- Sunshine: `#FBA100`
-- Lavender: `#6C648B`
-- Dusty Rose: `#B6A19E`
+- Prussian blue: `#0B3C5D`
+- Sky blue: `#328CC1`
+- Gold leaf: `#D9B310`
+- Ivory black: `#1D2731`
+- Ice Blue: `#C0D6EC`
 
 ___
 
