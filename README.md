@@ -40,7 +40,6 @@ ___
 Colores a utilizar:
 - Prussian blue: `#0B3C5D`
 - Sky blue: `#328CC1`
-- Gold leaf: `#D9B310`
 - Ivory black: `#1D2731`
 - Ice Blue: `#C0D6EC`
 
@@ -49,3 +48,6 @@ ___
 ## Logo del e-commerce
 
 ![Logo](https://instagram.fcor10-4.fna.fbcdn.net/v/t51.2885-19/309060531_754258988969447_7990359129970631497_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcor10-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=lHmUsinyKFEAX8U2HKk&tn=BX-Lf6nsokokidLE&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-MEF2uXjGqYbuOD-teYK3usRDQnSAt5gvNL0Aye9ZcaA&oe=6338AF25&_nc_sid=8fd12b)
+
+### Diseño Figma
+[Enlace a Figma](https://www.figma.com/file/QayuT22PH7KDCnP7JYgYN4/E-COMMERCE-(S.B.-ARGENTINA)?node-id=0%3A1)
